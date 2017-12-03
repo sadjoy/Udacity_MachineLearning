@@ -7,11 +7,11 @@ Courses:
 1. Intro to Machine Learning
 
 1.1 Welcome to Machine Learning
-1.1 Naive Bayes
-1.1 Support Vector Machines
-1.1 Decision Trees
-1.1 Choose your own Algorithm
-1.1 Datasets and Questions
+1.2 Naive Bayes
+1.3 Support Vector Machines
+1.4 Decision Trees
+1.5 Choose your own Algorithm
+1.6 Datasets and Questions
 
 2. Probabalistic Models
 
